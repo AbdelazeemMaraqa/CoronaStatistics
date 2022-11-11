@@ -1,2 +1,2 @@
 # CoronaStatistics
-Corona virus statistics dashboard
+Corona virus statistics dashboard 
